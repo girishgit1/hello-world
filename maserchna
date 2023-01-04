@@ -1,7 +1,7 @@
 pipeline{
   stages{
      stage{
-     step{ "echo hi ji
+     step{ "echo hi jiji
          }
       }
      }
